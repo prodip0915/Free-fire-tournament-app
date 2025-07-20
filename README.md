@@ -1,2 +1,2 @@
-# Free-fire-tournament-app
+# Free-Fire-Tournament-App
 New tournament app 
